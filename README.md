@@ -115,7 +115,7 @@ for name, model in models.items():
 
 ### 👩‍⚕️ For Individuals
 
-I encourage individuals—especially those with family history, high BMI, or irregular medication—to **monitor lifestyle patterns** such as activity, diet, and sleep. Predictive tools like this can be embedded in **mobile health apps** to promote timely screening.
+I encourage individuals—especially those with family history, high BMI, or irregular medication to **monitor lifestyle patterns** such as activity, diet, and sleep. Predictive tools like this can be embedded in **mobile health apps** to promote timely screening.
 
 ### 🏥 For Healthcare Professionals
 
